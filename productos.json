@@ -1,0 +1,282 @@
+[
+    {
+        "sku": "H001",
+        "nombre": "Martillo",
+        "categoria": "Herramientas",
+        "precio": 15.99,
+        "stock": 20,
+        "proveedor": "Proveedor A"
+    },
+    {
+        "sku": "H002",
+        "nombre": "Destornillador Plano",
+        "categoria": "Herramientas",
+        "precio": 5.5,
+        "stock": 50,
+        "proveedor": "Proveedor B"
+    },
+    {
+        "sku": "H003",
+        "nombre": "Llave Inglesa",
+        "categoria": "Herramientas",
+        "precio": 12.75,
+        "stock": 30,
+        "proveedor": "Proveedor A"
+    },
+    {
+        "sku": "H004",
+        "nombre": "Serrucho",
+        "categoria": "Herramientas",
+        "precio": 22.99,
+        "stock": 15,
+        "proveedor": "Proveedor C"
+    },
+    {
+        "sku": "H005",
+        "nombre": "Alicate",
+        "categoria": "Herramientas",
+        "precio": 8.99,
+        "stock": 40,
+        "proveedor": "Proveedor B"
+    },
+    {
+        "sku": "M001",
+        "nombre": "Tornillos 50mm (Caja)",
+        "categoria": "Materiales",
+        "precio": 3.99,
+        "stock": 100,
+        "proveedor": "Proveedor C"
+    },
+    {
+        "sku": "M002",
+        "nombre": "Clavos 1 pulgada (Caja)",
+        "categoria": "Materiales",
+        "precio": 2.5,
+        "stock": 200,
+        "proveedor": "Proveedor C"
+    },
+    {
+        "sku": "M003",
+        "nombre": "Tuercas 8mm (Bolsa)",
+        "categoria": "Materiales",
+        "precio": 4.25,
+        "stock": 150,
+        "proveedor": "Proveedor D"
+    },
+    {
+        "sku": "M004",
+        "nombre": "Arandelas 10mm (Bolsa)",
+        "categoria": "Materiales",
+        "precio": 3.75,
+        "stock": 180,
+        "proveedor": "Proveedor D"
+    },
+    {
+        "sku": "P001",
+        "nombre": "Pintura Blanca 1L",
+        "categoria": "Pinturas",
+        "precio": 20.0,
+        "stock": 15,
+        "proveedor": "Proveedor E"
+    },
+    {
+        "sku": "P002",
+        "nombre": "Pintura Negra 1L",
+        "categoria": "Pinturas",
+        "precio": 19.5,
+        "stock": 10,
+        "proveedor": "Proveedor E"
+    },
+    {
+        "sku": "P003",
+        "nombre": "Rodillo de Pintura",
+        "categoria": "Pinturas",
+        "precio": 8.99,
+        "stock": 25,
+        "proveedor": "Proveedor F"
+    },
+    {
+        "sku": "P004",
+        "nombre": "Pincel 2 pulgadas",
+        "categoria": "Pinturas",
+        "precio": 4.99,
+        "stock": 30,
+        "proveedor": "Proveedor F"
+    },
+    {
+        "sku": "P005",
+        "nombre": "Lija Grano Fino",
+        "categoria": "Pinturas",
+        "precio": 2.75,
+        "stock": 50,
+        "proveedor": "Proveedor G"
+    },
+    {
+        "sku": "C001",
+        "nombre": "Cemento Portland 50kg",
+        "categoria": "Construcci\u00c3\u00b3n",
+        "precio": 12.5,
+        "stock": 40,
+        "proveedor": "Proveedor H"
+    },
+    {
+        "sku": "C002",
+        "nombre": "Arena 25kg",
+        "categoria": "Construcci\u00c3\u00b3n",
+        "precio": 5.99,
+        "stock": 60,
+        "proveedor": "Proveedor H"
+    },
+    {
+        "sku": "C003",
+        "nombre": "Cal Hidratada 20kg",
+        "categoria": "Construcci\u00c3\u00b3n",
+        "precio": 7.75,
+        "stock": 35,
+        "proveedor": "Proveedor I"
+    },
+    {
+        "sku": "C004",
+        "nombre": "Hierro 6mm x 12m",
+        "categoria": "Construcci\u00c3\u00b3n",
+        "precio": 14.99,
+        "stock": 25,
+        "proveedor": "Proveedor I"
+    },
+    {
+        "sku": "C005",
+        "nombre": "Malla Electrosoldada 2x3m",
+        "categoria": "Construcci\u00c3\u00b3n",
+        "precio": 25.99,
+        "stock": 20,
+        "proveedor": "Proveedor J"
+    },
+    {
+        "sku": "E001",
+        "nombre": "Cable El\u00c3\u00a9ctrico 2mm 50m",
+        "categoria": "Electricidad",
+        "precio": 18.99,
+        "stock": 15,
+        "proveedor": "Proveedor K"
+    },
+    {
+        "sku": "E002",
+        "nombre": "Enchufe Triple",
+        "categoria": "Electricidad",
+        "precio": 5.5,
+        "stock": 40,
+        "proveedor": "Proveedor K"
+    },
+    {
+        "sku": "E003",
+        "nombre": "Foco LED 10W",
+        "categoria": "Electricidad",
+        "precio": 6.99,
+        "stock": 39,
+        "proveedor": "Proveedor L"
+    },
+    {
+        "sku": "E004",
+        "nombre": "Interruptor Simple",
+        "categoria": "Electricidad",
+        "precio": 4.25,
+        "stock": 30,
+        "proveedor": "Proveedor L"
+    },
+    {
+        "sku": "E005",
+        "nombre": "Caja de Conexi\u00c3\u00b3n",
+        "categoria": "Electricidad",
+        "precio": 3.99,
+        "stock": 25,
+        "proveedor": "Proveedor M"
+    },
+    {
+        "sku": "H006",
+        "nombre": "Llave Allen Set 8 piezas",
+        "categoria": "Herramientas",
+        "precio": 11.5,
+        "stock": 20,
+        "proveedor": "Proveedor N"
+    },
+    {
+        "sku": "H007",
+        "nombre": "Taladro Percutor 750W",
+        "categoria": "Herramientas",
+        "precio": 79.99,
+        "stock": 10,
+        "proveedor": "Proveedor O"
+    },
+    {
+        "sku": "H008",
+        "nombre": "Esmeril Angular 650W",
+        "categoria": "Herramientas",
+        "precio": 55.99,
+        "stock": 8,
+        "proveedor": "Proveedor O"
+    },
+    {
+        "sku": "H009",
+        "nombre": "Sierra Circular 1200W",
+        "categoria": "Herramientas",
+        "precio": 99.99,
+        "stock": 5,
+        "proveedor": "Proveedor P"
+    },
+    {
+        "sku": "H010",
+        "nombre": "Cinta M\u00c3\u00a9trica 5m",
+        "categoria": "Herramientas",
+        "precio": 6.5,
+        "stock": 60,
+        "proveedor": "Proveedor Q"
+    },
+    {
+        "sku": "M005",
+        "nombre": "Remaches 3mm (Paquete)",
+        "categoria": "Materiales",
+        "precio": 3.25,
+        "stock": 100,
+        "proveedor": "Proveedor R"
+    },
+    {
+        "sku": "M006",
+        "nombre": "Bisagras 2 pulgadas (Par)",
+        "categoria": "Materiales",
+        "precio": 5.99,
+        "stock": 50,
+        "proveedor": "Proveedor S"
+    },
+    {
+        "sku": "M007",
+        "nombre": "Tirafondos 6mm (Bolsa)",
+        "categoria": "Materiales",
+        "precio": 4.5,
+        "stock": 75,
+        "proveedor": "Proveedor S"
+    },
+    {
+        "sku": "M008",
+        "nombre": "Pasadores de Seguridad",
+        "categoria": "Materiales",
+        "precio": 7.25,
+        "stock": 40,
+        "proveedor": "Proveedor T"
+    },
+    {
+        "sku": "P006",
+        "nombre": "Barniz Transparente 1L",
+        "categoria": "Pinturas",
+        "precio": 24.5,
+        "stock": 10,
+        "proveedor": "Proveedor U"
+    },
+    {
+        "sku": "P007",
+        "nombre": "Diluyente 500ml",
+        "categoria": "Pinturas",
+        "precio": 9.5,
+        "stock": 30,
+        "proveedor": "Proveedor U"
+    }
+]

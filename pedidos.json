@@ -1,0 +1,70 @@
+[
+    {
+        "id": 1,
+        "cliente": "Juan Perez",
+        "items": [
+            {
+                "producto": "Martillo",
+                "cantidad": 2,
+                "precio_unitario": 35.0,
+                "subtotal": 70.0
+            }
+        ],
+        "iva": 21.0,
+        "total": 84.7
+    },
+    {
+        "id": 2,
+        "cliente": "cristian varela",
+        "items": [
+            {
+                "producto": "Tornillos 50mm",
+                "cantidad": 50,
+                "precio_unitario": 9.99,
+                "subtotal": 499.5
+            }
+        ],
+        "iva": 21.0,
+        "total": 604.39
+    },
+    {
+        "id": 3,
+        "cliente": "Juan Perez",
+        "items": [
+            {
+                "producto": "Martillo",
+                "cantidad": 1,
+                "precio_unitario": 15.0,
+                "subtotal": 15.0
+            },
+            {
+                "producto": "Destornillador Plano",
+                "cantidad": 1,
+                "precio_unitario": 19.0,
+                "subtotal": 19.0
+            },
+            {
+                "producto": "Tornillos 50mm",
+                "cantidad": 20,
+                "precio_unitario": 9.99,
+                "subtotal": 199.8
+            }
+        ],
+        "iva": 0.0,
+        "total": 233.8
+    },
+    {
+        "id": 4,
+        "cliente": "Juan Perez",
+        "items": [
+            {
+                "producto": "Foco LED 10W",
+                "cantidad": 11,
+                "precio_unitario": 6.99,
+                "subtotal": 76.89
+            }
+        ],
+        "iva": 21.0,
+        "total": 93.04
+    }
+]

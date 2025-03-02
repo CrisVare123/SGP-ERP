@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "nombre": "Juan Perez",
+        "direccion": "Calle 123",
+        "telefono": "123456789",
+        "email": "juan@mail.com"
+    },
+    {
+        "id": 2,
+        "nombre": "Ana Lopez",
+        "direccion": "Av. Principal 456",
+        "telefono": "987654321",
+        "email": "ana@mail.com"
+    },
+    {
+        "id": 3,
+        "nombre": "Carlos Ruiz",
+        "direccion": "Calle Secundaria 789",
+        "telefono": "555123456",
+        "email": "carlos@mail.com"
+    },
+    {
+        "id": 4,
+        "nombre": "cristian varela",
+        "direccion": "casa 123",
+        "telefono": "1122334455",
+        "email": "cris@mail.com"
+    }
+]
